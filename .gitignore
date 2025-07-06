@@ -1,0 +1,12 @@
+# IDE Config
+.vs/
+*.suo
+*.user
+bin/
+obj/
+*.nupkg
+
+# Debug & Log
+*.pdb
+*.vshost.exe
+*.log
